@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/test.jpg</file>
+        <file>icon/testeye.jpeg</file>
+        <file>icon/.DS_Store</file>
+        <file>icon/cropIcon.png</file>
+        <file>icon/heightIcon.png</file>
+        <file>icon/interIcon.png</file>
+        <file>icon/plusIcon.png</file>
+        <file>icon/rotateIcon.png</file>
+        <file>icon/saveIcon.png</file>
+        <file>icon/Thumbs.db</file>
+        <file>icon/widthIcon.png</file>
+        <file>icon/warningIcon.png</file>
+        <file>icon/helpIcon.png</file>
+        <file>icon/infoIcon.png</file>
+        <file>icon/settingsIcon.png</file>
+        <file>icon/aboutText.png</file>
+        <file>icon/mainIcon.ico</file>
+        <file>icon/mainIcon.png</file>
+        <file>icon/welcomeText.jpg</file>
+        <file>icon/warningText.png</file>
+    </qresource>
+</RCC>
